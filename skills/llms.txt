@@ -1,0 +1,7 @@
+taste-skill: The main design skill for premium SvelteKit frontend code. Covers layout, typography, colors, spacing, and motion — with the 3-dial config system (DESIGN_VARIANCE, MOTION_INTENSITY, VISUAL_DENSITY).
+redesign-skill: For upgrading existing SvelteKit projects by auditing and fixing design problems.
+soft-skill: Premium, soft UI look with expensive fonts, whitespace, depth, and smooth spring animations.
+output-skill: Prevents AI from being lazy, skipping code blocks, or using placeholder comments.
+minimalist-skill: Clean, editorial-style interfaces (Notion/Linear style) with warm monochrome palettes and scoped CSS.
+brutalist-skill: Raw mechanical interfaces, Swiss typography, extreme scale contrast. (Beta)
+stitch-skill: Google Stitch-compatible semantic design rules for premium AI UI generation.
