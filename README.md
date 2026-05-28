@@ -9,6 +9,8 @@
 
 A Svelte 5 adaptation of the original taste-skill. Same design philosophy and anti-slop rules, rewritten for **SvelteKit + Scoped CSS + CSS Variables** — no Tailwind, no framer-motion, pure Svelte.
 
+![Example](docs/example.gif)
+
 ## Why This Exists
 
 The original taste-skill is excellent but heavily coupled to React/Next.js, Tailwind CSS, and framer-motion. This project ports every skill to Svelte 5's native APIs:
